@@ -1,11 +1,6 @@
 
 # Amharic stemmer
-"""
-Group members
-- Jigsa Tesfaye
-- Bersisa Diro
-- Mekonnen Molla
-"""
+
 import sys,os,re,json
 
 def transliterate(user_input):
